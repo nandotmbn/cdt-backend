@@ -23,11 +23,11 @@ Menginstall python caranya sangat mudah, yaitu diantaranya:
 
 1. Mengunjungi [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Klik tombol **Download Python 3.x.x**
-   ![1](tutorials/img/1.png "Text to show on mouseover")
+   ![1](tutorials/img/1.PNG "Text to show on mouseover")
 3. Tunggu hingga selesai terdownload
 4. Jalankan file yang terdownload
 5. Akan muncul jendela instalasi, centang semua pilihan yang ada di sisi bawah jendela
-   ![2](tutorials/img/2.png "Text to show on mouseover")
+   ![2](tutorials/img/2.PNG "Text to show on mouseover")
    * Use admin priviledges when installing py.exe
    * Add python.exe to PATH
 6. Klik Install Now
@@ -54,18 +54,18 @@ Jika python sudah terinstall, maka Flask, OpenCV dan TensorFlow akan mudah untuk
 2. Ketikkan command `py -m pip install numpy opencv-python flask flask-cors tensorflow`
 3. Tunggu hingga proses selesai
 4. Setelah selesai, cari di bilah pencarian 'env', maka akan muncul seperti gambar dibawah ini
-   ![3](tutorials/img/3.png "Text to show on mouseover")
+   ![3](tutorials/img/3.PNG "Text to show on mouseover")
 5. Klik Open
 6. Lalu akan muncul jendela System Properties
 7. Klik **Environment Variables**
-   ![4](tutorials/img/4.png "Text to show on mouseover")
+   ![4](tutorials/img/4.PNG "Text to show on mouseover")
 8. Lalu akan muncul jendela Environment Variables
 9. Klik tombol **New** pada User Variable (yellow highlighted)
-    ![5](tutorials/img/5.png "Text to show on mouseover")
+    ![5](tutorials/img/5.PNG "Text to show on mouseover")
 10. Isi seperti gambar dibawah
-    ![6](tutorials/img/6.png "Text to show on mouseover")
+    ![6](tutorials/img/6.PNG "Text to show on mouseover")
 11. Buat lagi dengan isian seperti gambar dibawah
-    ![7](tutorials/img/7.png "Text to show on mouseover")
+    ![7](tutorials/img/7.PNG "Text to show on mouseover")
 12. Selesai
   
 #### Run DNN Server in your system
