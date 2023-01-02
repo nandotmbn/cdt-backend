@@ -129,7 +129,7 @@ def create_low():
 
         # Rescale the image (get all values between 0 and 1)
         img = img/255.
-
+        # Helo
         pred = loaded_model_1.predict(tf.expand_dims(img, axis=0))
 
         # Get the predicted class
